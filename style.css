@@ -6,11 +6,7 @@
 }
 
 figcaption {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-indent: 200px;
+    text-indent: 150px;
     font-size: 10px
 }
 
